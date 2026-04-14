@@ -1,0 +1,6 @@
+post_id,user_id,platform,date,likes,comments,sentiment
+1,101,Instagram,2024-01-01,120,15,Positive
+2,102,Twitter,2024-01-02,80,10,Neutral
+3,103,Instagram,2024-01-03,200,30,Positive
+4,104,Facebook,2024-01-04,50,5,Negative
+5,105,Twitter,2024-01-05,300,45,Positive
