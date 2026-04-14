@@ -107,7 +107,7 @@ LIMIT 1;
 
 1. Clone the repository:
 
-git clone https://github.com/Hexa-Cortex/social-media-data-warehouse.git
+git clone https://github.com/Hexa-Cortex/Social-Media-Data-Warehouse-for-Sentiment-and-Trend-Analysis.git
 
 2. Open the project folder
 
